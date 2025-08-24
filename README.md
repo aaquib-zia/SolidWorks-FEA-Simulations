@@ -5,6 +5,10 @@ Showcase of core FEA skills using **SolidWorks Simulation** across static, modal
 > **Goal:** Demonstrate practical analysis workflow—problem definition → assumptions → model prep → meshing → loads/BCs → solver → verification 
 
 ---
+# Animation
+![Stress Animation gif](https://github.com/user-attachments/assets/8eabe372-6f06-4f32-8f23-7b7b0ce7bd48)
+
+
 
 ## Repository Structure
 ```
