@@ -1,0 +1,16 @@
+[StartTime]
+Analysis-Static Structural.MFC=1s
+[SolverState]
+Analysis-Static Structural.MFC=2
+[MainFrame]
+Analysis-Static Structural.MFC=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPMECAAAAAHEBAAAAAELDAAAAAKBCAAAAA
+[ShowMin]
+Analysis-Static Structural.MFC=No
+[SolverType]
+Analysis-Static Structural.MFC=Linear Analysis
+[StudyType]
+Analysis-Static Structural.MFC=0
+[StudyName]
+Analysis-Static Structural.MFC=Static Structural
+[Solver]
+Analysis-Static Structural.MFC=Sparse
